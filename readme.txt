@@ -6,3 +6,4 @@ second change
 Creating a new branch is quick.
 new branch is linked
 hello added
+Creating a new branch is quick AND simple.
